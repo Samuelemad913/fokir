@@ -6,8 +6,11 @@
  scroll-padding-top: 30px;
  }
  /* SHARED STYLE */
- 
-  
+ h1 {
+   color: transparent;
+}
+
+
     p {
      font-family: 'Roboto', sans-serif;
  
